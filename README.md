@@ -20,6 +20,26 @@ The basic source of data is Amazon.xlsx which is an open sorce data and can be e
 ### Tools Used
 
 - Microsoft Excel (for Data Collection, Data Cleaning, Data Manipulation and Data Integrity.
+- Microsoft Power Point (for Data Presentation).
+
+### Data Collection 
+This is the process of gathering and measuring information on variables of interest in systemmatic way. It involves downloading my datasets from an open source.
+
+### Data Cleaning
+Data Cleaning is the process of fixing or removing incorrect, coorrupted, incomplete data in the dataset, and duplicates.
+
+### Data Manipulation
+Data Manipulation focuses on transforming and preparing data into a useful format.
+
+### Data Itegrity
+Data Integrity focuses on the of the accuracy, completeness, and reliabily of data. It ensure that data remains unchanged during storage, transmission and rtrieval. 
+
+## Data Presentation
+
+Data Presentaion is concerned with organising data in a way that is easy to understand and interprete by using visuals like charts and graphs.
+
+
+
 
 
 
