@@ -56,6 +56,12 @@ This is involved with exploring data to unveil the answers behind the questions 
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
+### Analysis 
+
+
+
+
+
 
 
 
