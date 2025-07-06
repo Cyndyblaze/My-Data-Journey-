@@ -4,7 +4,7 @@ This is a summary of my journey through Data Analysis as a student with Incubato
 
 With the help of the wonderful facilitators who have taken their time to expose me to a data-driven world, I learnt quite a lot about data, ranging from Data Cleaning, Data Manipulation, Visualization to Interpretation of data to ensure Data Integrity with tools like Excel, SQL, and Power BI. I realized that data is made up of our day-to-day activity i.e, data is as old as man, and now, Data Analysis is one of the most highly demanded tech-savvy field, which I find very interesting because every data has a story to tell. Let me walk you through my data journey as I begin to unveil the story behind datasets while building my portfolio.
 
-## Project Topics: 
+## Project Topic: 
 Case Study 1: Amazon Product Review Analysis
 
 ### Project Overview
@@ -70,7 +70,9 @@ I think Amazon should focus more on Electronics followed by Computers & Accessor
 
 My project file is attached below
 
+[Amazon case study(1).xlsx](https://github.com/user-attachments/files/21091536/Amazon.case.study.1.xlsx)
 
+If you need a reliable and resourceful Data Analyst to assist you with the organisation, manipulation, retrieval, and interpretation of data into useful information, and also solve problems to enhance the growth and productivity of your business, feel free to contact me through this email- ofomcynthia@gmail.com.
 
 
 
