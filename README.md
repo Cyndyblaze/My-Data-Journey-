@@ -31,16 +31,16 @@ Data Cleaning is the process of fixing or removing incorrect, coorrupted, incomp
 ### Data Manipulation
 Data Manipulation focuses on transforming and preparing data into a useful format.
 
-### Data Itegrity
-Data Integrity focuses on the of the accuracy, completeness, and reliabily of data. It ensure that data remains unchanged during storage, transmission and rtrieval. 
+### Data Integrity
+Data Integrity focuses on the accuracy, completeness, and reliability of data. It ensures that data remains unchanged during storage, transmission, and retrieval. 
 
 ### Data Presentation
 
-Data Presentaion is concerned with organising data in a way that is easy to understand and interprete by using visuals like charts and graphs.
+Data Presentation is concerned with organizing data in a way that is easy to understand and interpret by using visuals like charts and graphs.
 
 ### Exploratory Data Analysis (EDA)
 
-This is involved with exploring data to unveil the answers behind the questions such as;
+This is involved with exploring data to unveil the answers behind the questions, such as;
 1. What is the average discount percentage by product category?
 2. How many products are listed under each category?
 3. What is the total number of reviews per category?
@@ -57,6 +57,8 @@ This is involved with exploring data to unveil the answers behind the questions 
 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
 ### Analysis 
+
+
 
 
 
