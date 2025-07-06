@@ -15,18 +15,18 @@ Case Study 1: Amazon Product Review Analysis
 This Project aims at providing RetailTech Insights, a company that provides e-commerce analytics solutions to sellers on platforms like Amazon with analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
 ### Data Sources
-The basic source of data is Amazon.xlsx which is an open sorce data and can be easily downloaded from an open source online.
+The primary source of data is Amazon.xlsx, which is an open-source data and can be easily downloaded from an open-source online.
 
 ### Tools Used
 
-- Microsoft Excel (for Data Collection, Data Cleaning, Data Manipulation and Data Integrity.
+- Microsoft Excel (for Data Collection, Data Cleaning, Data Manipulation, and Data Integrity.
 - Microsoft Power Point (for Data Presentation).
 
 ### Data Collection 
-This is the process of gathering and measuring information on variables of interest in systemmatic way. It involves downloading my datasets from an open source.
+This is the process of gathering and measuring information on variables of interest in a systematic way. It involves downloading my datasets from an open source.
 
 ### Data Cleaning
-Data Cleaning is the process of fixing or removing incorrect, coorrupted, incomplete data in the dataset, and duplicates.
+Data Cleaning is the process of fixing or removing incorrect, corrupted, incomplete data in the dataset and duplicates.
 
 ### Data Manipulation
 Data Manipulation focuses on transforming and preparing data into a useful format.
@@ -60,6 +60,9 @@ This is involved with exploring data to unveil the answers behind the questions,
 
 
 
+The above image is a screenshot of my dashboard, where lots of stories about Amazon products and their customers were told. With my excellent critical thinking and problem-solving skills, I was able to find the answers to questions on the pitch deck. My findings are as follows;
+
+- I noticed that some products have incomplete data; I replaced the missing data with 0 because the link to the products displayed updated information about them, which would be unfair to other products.
 
 
 
