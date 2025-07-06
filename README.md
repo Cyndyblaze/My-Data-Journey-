@@ -1,4 +1,4 @@
- # My-Data-Journey
+ # My-Data-Journey with DSA
 
 This is a summary of my journey through Data Analysis as a student with Incubator Hub. I was able to analyze and extract important information and make meaningful decisions.
 
